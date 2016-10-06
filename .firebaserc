@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "firebase deploy": "paksi-gdg-ssa",
+    "firebase": "paksi-gdg-ssa",
+    "login-firebase": "login-firebase-fbabf"
+  }
+}
