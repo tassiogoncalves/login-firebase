@@ -2,4 +2,4 @@
 
 ##Acesse o Login funcionando clicando abaixo
 
-[Acessar Login Funcionando!](https://login-firebase-fbabf.firebaseapp.com/){:target="_blank"}
+[Acessar Login Funcionando!](https://login-firebase-fbabf.firebaseapp.com/)
